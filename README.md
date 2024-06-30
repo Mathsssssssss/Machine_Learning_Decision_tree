@@ -1,25 +1,42 @@
-# Machine_Learning_Decision_tree
-ML Model for Rheumatoid Arthritis Prediction
-Overview
-This project focuses on building a machine learning model to predict and understand rheumatoid arthritis, a rare disease with limited available information. The aim is to leverage the trained model to gain more insights into the disease.
+<div align='center'>
 
-Project Objectives
-Develop a machine learning model to predict rheumatoid arthritis.
-Use the model to extract and understand more information about the disease.
-Utilize decision tree algorithm for its effectiveness in branching and differentiating causes.
-Why Rheumatoid Arthritis?
-Rheumatoid arthritis was chosen due to the scarcity of comprehensive information about the disease, making it a challenging and impactful project.
+<h1>Implementation of Decision Tree Algorithm for Prediction of Rheumatoid Arthritis Disease</h1>
+<p>This project develops a decision tree-based ML model to predict Rheumatoid Arthritis (RA), an autoimmune disease affecting joints and other body parts. Using clinical and laboratory data from Kaggle, the model identifies key predictors like age, gender, and treatment history. Achieving 86.5% accuracy on training data and 74.4% on testing data, the model effectively assesses RA severity and progression.</p>
 
-Methodology
-Algorithm: Decision Tree
-Selected for its capability to branch and differentiate between various causes effectively.
-Dataset: Sourced from Kaggle
-The dataset from Kaggle was instrumental in developing and training the model.
-Results
-The decision tree model provided valuable insights into the factors contributing to rheumatoid arthritis, helping to bridge the information gap about the disease.
-Conclusion
-This project demonstrates the potential of machine learning in understanding rare diseases like rheumatoid arthritis, providing a foundation for further research and development.
+<h4> <span> · </span> <a href="https://github.com/Mathsssssssss/Machine_Learning_Decision_tree/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Mathsssssssss/Machine_Learning_Decision_tree/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Mathsssssssss/Machine_Learning_Decision_tree/issues"> Request Feature </a> </h4>
 
-Acknowledgments
-Kaggle for providing the dataset.
-All contributors and collaborators.
+
+</div>
+
+# :notebook_with_decorative_cover: Table of Contents
+
+- [About the Project](#star2-about-the-project)
+- [Contributing](#wave-contributing)
+- [License](#warning-license)
+- [Contact](#handshake-contact)
+
+
+## :star2: About the Project
+
+### :camera: Screenshots
+<div align="center"> <a href=""><img src="https://ijemr.vandanapublications.com/public/journals/2/submission_1317_1317_coverImage_en_US.jpg" alt='image' width='800'/></a> </div>
+
+
+
+## :wave: Contributing
+
+<a href="https://github.com/Mathsssssssss/Machine_Learning_Decision_tree/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
+
+Contributions are always welcome!
+
+see `contributing.md` for ways to get started
+
+## :warning: License
+
+Distributed under the no License. See LICENSE.txt for more information.
+
+## :handshake: Contact
+
+Krupa J - - krupamoni666@gmail.com
+
+Project Link: [https://github.com/Mathsssssssss/Machine_Learning_Decision_tree](https://github.com/Mathsssssssss/Machine_Learning_Decision_tree)
